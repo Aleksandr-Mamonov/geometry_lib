@@ -6,5 +6,3 @@ Geometry is Python library which calculates properties of common geometric shape
     $ cd geometry_lib/
     $ python setup.py bdist_wheel
     $ pip install dist/your_wheel_file.whl
-
-Added
